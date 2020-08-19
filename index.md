@@ -28,10 +28,7 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 
 <p style = "font-size:10">
 <img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
-<a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergrads who design open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
-</p>
-<p>
-Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
+<a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergrads who design open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018. Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
 </p>
 <p>
 I'm the Avionics Hardware leader of Brown Space Engineering. I...
