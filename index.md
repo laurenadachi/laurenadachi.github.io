@@ -3,19 +3,22 @@
 ---
 
 ### Team Projects
-<p> I've worked on the BSE and Pufferfish ventilation team repositories:
-  <ul>
-      <li>
-          <a href="https://github.com/pez-globo">Pufferfish Ventilation (Pez Globo)</a>:
-              I worked on the
-                  <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface"> interface PCB </a>
-              where I created the electronics interface between front-end user devices and the control MCU.
-      </li>
-      <li>
-          <a href="https://github.com/BrownSpaceEngineering">Brown Space Engineering:</a>
-          My team and I are initial stages of developing the PCBs for our newest satellite. The majority
-          of our current work is research and overall systems design--stay posted for hardware updates!
-      </li>
+<p>
+<a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. We are group of scientists, engineers and clinicians who are dedicated to fighting the COVID-19 health crisis. PezGlobo is an inter-university partnership between Stanford University, Brown University and University of Utah with industrial partners across the globe including Waymo, Blackrock Microsystems and Bharat Forge.
+    <ul>
+        <li>
+            I designed on the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
+        </li>
+</p>
+<p>
+<a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergraduates building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
+    <ul>
+        <li>
+            I am the Avionics Hardware leader of Brown Space Engineering. I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control. As we begin the process of making a new satellite, my team and I are working on a launch application to NASA that describes its mission and technical specifications and requirements.
+        </li>
+        <li>
+            <a href="https://github.com/BrownSpaceEngineering">GitHub Organization</a>: Our schematics and board designs for our new satellite will soon be posted here. Stay posted for hardware updates!
+        </li>
   </ul>
 </p>
 
