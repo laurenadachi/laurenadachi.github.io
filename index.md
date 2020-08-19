@@ -49,8 +49,8 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
 
 Design Samples: <br>
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480px;">
-<img src="images/PVDXPowerBudget.png?raw=true" style="width:230px;">
-<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:250px;">
+<img src="images/PVDXPowerBudget.png?raw=true" style="width:220px;">
+<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:260px;">
 
 <a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
@@ -63,16 +63,16 @@ Click on the project names for videos!
 
 ### Python
 [RISC-V Assembler](/mov/Assembler.mov)
-<img src="images/Assembler.png?raw=true" style="width:240;">
+<img src="images/Assembler.png?raw=true">
 
 ### Java
 [Pacman](/mov/Pacman.mov) <br>
-<img src="images/Pacman.png" style="width:240px;"><br>
+<img src="images/Pacman.png" style="width:300px;"><br>
 
 [Tetris](/mov/Tetris.mov)  <br>
-<img src="images/Tetris.png" style="width:240px;"> <br>
+<img src="images/Tetris.png" style="width:300px;"> <br>
 [DoodleJump](/mov/DoodleJump.mov) <br>
-<img src="images/DoodleJump.png" style="width:240px;"> <br>
+<img src="images/DoodleJump.png" style="width:300px;"> <br>
 
 
 ---
