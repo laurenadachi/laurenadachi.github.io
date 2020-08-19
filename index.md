@@ -52,13 +52,13 @@ An example of the systems design I'm doing--high-level block diagram for our new
 ## Class Projects
 ### Java
 [Pacman](/mov/Pacman.mov)
-<img src="images/Pacman.png?raw=true" style="width:160;">
+<img src="images/Pacman.png" style="width:120px;">
 
 [Tetris](/mov/Tetris.mov)
-<img src="images/Tetris.png?raw=true" style="width:160;">
+<img src="images/Tetris.png" style="width:120px;">
 
 [DoodleJump](/mov/DoodleJump.mov)
-<img src="images/DoodleJump.png?raw=true" style="width:160;">
+<img src="images/DoodleJump.png" style="width:120px;">
 
 ### Python
 [RISC-V Assembler](/mov/Assembler.mov)
