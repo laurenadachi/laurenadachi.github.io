@@ -24,7 +24,6 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 </p>
 
 <br>
-<br>
 
 <p style = "font-size:10">
 <img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
@@ -49,8 +48,8 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
 
 Design Samples: <br>
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480px;">
-<img src="images/PVDXPowerBudget.png?raw=true" style="width:220px;">
-<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:260px;">
+<img src="images/PVDXPowerBudget.png?raw=true" style="width:240px;">
+<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:240px;">
 
 <a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
@@ -61,13 +60,13 @@ Design Samples: <br>
 ## Class Projects
 Click on the project names for videos!
 
-### Hardware
 <img src="images/CPLD.JPG?raw=true" style="float:right;width:75px;">
+### Hardware
 <b> CPLDs </b> <br>
 [4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
 [Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
-
 <img src="images/Breadboard.JPG?raw=true" style="float:right;width:75px;">
+
 <b> Breadboarding </b> <br>
 [Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)-- [Oscilloscope reading of conversion](/mov/ApproxA_DConverterOscilloscope.MP4) <br>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4)
