@@ -61,6 +61,19 @@ Design Samples: <br>
 ## Class Projects
 Click on the project names for videos!
 
+### Hardware
+<b> CPLDs </b> <br>
+[4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
+[Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
+
+<b> Breadboarding </b> <br>
+[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)-- [Oscilloscope reading of conversion](/mov/ApproxA_DConverterOscilloscope.MP4)
+
+[Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4) <br>
+
+<b> FPGAs </b> <br>
+[Scrolling message board](/mov/FPGAScroll.mp4)<br>
+
 ### Software
 <b> Python </b> <br>
 [RISC-V Assembler](/mov/Assembler.mov)
@@ -75,22 +88,6 @@ Click on the project names for videos!
 [DoodleJump](/mov/DoodleJump.mov) <br>
 <img src="images/DoodleJump.png" style="width:300px;"> <br>
 
-### Hardware
-<b> CPLDs </b> <br>
-[4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
-[Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
-
-<b> Breadboarding </b> <br>
-[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4) <br>
-<ul>
-    <li>
-        [Oscilloscope reading](/mov/ApproxA_DConverterOscilloscope.MP4)
-    </li>
-</ul>
-[Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4) <br>
-
-<b> FPGAs </b> <br>
-[Scrolling message board](/mov/FPGAScroll.mp4)<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
