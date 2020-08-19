@@ -51,31 +51,20 @@ An example of the systems design I'm doing--high-level block diagram for our new
 
 ## Class Projects
 ### Java
-[Pacman](/mov/Pacman.mov)
+[Pacman](/mov/Pacman.mov)           [Tetris](/mov/Tetris.mov)           [DoodleJump](/mov/DoodleJump.mov)
 <img src="images/Pacman.png" style="width:120px;">
-
-[Tetris](/mov/Tetris.mov)
 <img src="images/Tetris.png" style="width:120px;">
-
-[DoodleJump](/mov/DoodleJump.mov)
 <img src="images/DoodleJump.png" style="width:120px;">
 
 ### Python
 [RISC-V Assembler](/mov/Assembler.mov)
 <img src="images/Assembler.png?raw=true" style="width:240;">
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
