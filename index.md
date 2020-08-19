@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Team Projects
+## Team Projects
 <p>
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
@@ -36,7 +36,7 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
             As we begin the process of making a new satellite, my team and I are working on a launch application to NASA that describes its mission and technical specifications and requirements.
         </li>
         <li>
-            Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test & inspect perovskite solar cells for the first time in space.
+            Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
         </li>
   </ul>
 
@@ -49,17 +49,20 @@ An example of the systems design I'm doing--high-level block diagram for our new
 
 ---
 
-### Class Projects
-## Java
+## Class Projects
+### Java
 [Pacman](/mov/Pacman.mov)
-<img src="images/Pacman.png?raw=true"/>
+<img src="images/Pacman.png?raw=true" style="width:160;">
 
 [Tetris](/mov/Tetris.mov)
-<img src="images/Tetris.png?raw=true"/>
+<img src="images/Tetris.png?raw=true" style="width:160;">
 
 [DoodleJump](/mov/DoodleJump.mov)
-<img src="images/DoodleJump.png?raw=true"/>
+<img src="images/DoodleJump.png?raw=true" style="width:160;">
 
+### Python
+[RISC-V Assembler](/mov/Assembler.mov)
+<img src="images/Assembler.png?raw=true" style="width:240;">
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
