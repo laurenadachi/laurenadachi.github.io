@@ -48,8 +48,8 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
 
 Design Samples: <br>
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480px;">
-<img src="images/PVDXPowerBudget.png?raw=true" style="width:240px;">
-<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:240px;">
+<img src="images/PVDXPowerBudget.png?raw=true" style="width:235px;">
+<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:245px;">
 
 <a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
@@ -68,7 +68,7 @@ Click on the project names for videos!
 <img src="images/Breadboard.JPG?raw=true" style="float:right;width:75px;">
 
 <b> Breadboarding </b> <br>
-[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)
+[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)<br>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4)
 
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
