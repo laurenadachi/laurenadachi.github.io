@@ -36,6 +36,9 @@
             <a href="https://github.com/BrownSpaceEngineering">GitHub Organization</a>: Our schematics and board designs for our new satellite will soon be posted here. Stay posted for hardware updates!
         </li>
   </ul>
+
+<img src="images/FutureSatBlockDiagram.jpg?raw=true" style="width:480;">
+
 </p>
 
 ---
