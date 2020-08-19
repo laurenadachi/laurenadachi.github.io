@@ -13,13 +13,13 @@
             <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>: Contains the KiCAD and gerber files for the Interface PCB
         </li>
     </ul>
-<img src="images/PezGloboConnections.png?raw=true" style="width:128px;">
+<img src="images/PezGloboConnections.png?raw=true" style="width:250px;">
 
-<img src="images/PezGloboAlarmsLeds.png?raw=true" style="width:128px;">
+<img src="images/PezGloboAlarmsLeds.png?raw=true" style="width:250px;">
 
-<img src="images/PezGloboSwitches.png?raw=true" style="width:128px;">
+<img src="images/PezGloboSwitches.png?raw=true" style="width:250px;">
 
-<img src="images/PezGloboInterfacePCB.png?raw=true" style="width:128px;">
+<img src="images/PezGloboInterfacePCB.png?raw=true" style="width:250px;">
 
 </p>
 <p>
