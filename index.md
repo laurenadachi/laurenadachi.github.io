@@ -51,10 +51,12 @@ An example of the systems design I'm doing--high-level block diagram for our new
 
 ## Class Projects
 ### Java
-[Pacman](/mov/Pacman.mov) -------------------- [Tetris](/mov/Tetris.mov)  --------------------  [DoodleJump](/mov/DoodleJump.mov)
-<img src="images/Pacman.png" style="width:164px;">
-<img src="images/Tetris.png" style="width:164px;">
-<img src="images/DoodleJump.png" style="width:164px;">
+[Pacman](/mov/Pacman.mov)
+<img src="images/Pacman.png" style="width:240px;">
+[Tetris](/mov/Tetris.mov)  
+<img src="images/Tetris.png" style="width:240px;">
+[DoodleJump](/mov/DoodleJump.mov)
+<img src="images/DoodleJump.png" style="width:240px;">
 
 ### Python
 [RISC-V Assembler](/mov/Assembler.mov)
