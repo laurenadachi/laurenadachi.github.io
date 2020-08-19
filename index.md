@@ -68,8 +68,7 @@ Click on the project names for videos!
 
 <b> Breadboarding </b> <br>
 [Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)-- [Oscilloscope reading of conversion](/mov/ApproxA_DConverterOscilloscope.MP4)
-
-[Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4) <br>
+[Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4) 
 
 <b> FPGAs </b> <br>
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
