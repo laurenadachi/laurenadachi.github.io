@@ -56,12 +56,13 @@ An example of the systems design I'm doing--high-level block diagram for our new
 <img src="images/Assembler.png?raw=true" style="width:240;">
 
 ### Java
-[Pacman](/mov/Pacman.mov)
-<img src="images/Pacman.png" style="width:240px;">
-[Tetris](/mov/Tetris.mov)  
-<img src="images/Tetris.png" style="width:240px;">
-[DoodleJump](/mov/DoodleJump.mov)
-<img src="images/DoodleJump.png" style="width:240px;">
+[Pacman](/mov/Pacman.mov) <br>
+<img src="images/Pacman.png" style="width:240px;"><br>
+
+[Tetris](/mov/Tetris.mov)  <br>
+<img src="images/Tetris.png" style="width:240px;"> <br>
+[DoodleJump](/mov/DoodleJump.mov) <br>
+<img src="images/DoodleJump.png" style="width:240px;"> <br>
 
 
 ---
