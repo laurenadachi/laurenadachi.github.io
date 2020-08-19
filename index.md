@@ -13,10 +13,14 @@
             <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>: Contains the KiCAD and gerber files for the Interface PCB
         </li>
     </ul>
-<img src="images/PezGloboConnections.png?raw=true"/ style="width:128px;">
-<img src="images/PezGloboAlarmsLeds.png?raw=true"/ style="width:128px;">
-<img src="images/PezGloboSwitches.png?raw=true"/ style="width:128px;">
-<img src="images/PezGloboInterfacePCB.png?raw=true"/ style="width:128px;">
+<img src="images/PezGloboConnections.png?raw=true" style="width:128px;">
+
+<img src="images/PezGloboAlarmsLeds.png?raw=true" style="width:128px;">
+
+<img src="images/PezGloboSwitches.png?raw=true" style="width:128px;">
+
+<img src="images/PezGloboInterfacePCB.png?raw=true" style="width:128px;">
+
 </p>
 <p>
 <a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergraduates building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
