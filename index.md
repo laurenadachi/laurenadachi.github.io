@@ -3,7 +3,7 @@
 ---
 
 ## Team Projects
-<p>
+<p style = "font-size:10">
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
     <ul>
@@ -26,7 +26,7 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 <br>
 <br>
 
-<p>
+<p style = "font-size:10">
 <img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
 <a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergrads who design open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
 </p>
@@ -46,7 +46,7 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
             Work together with the other leaders to ensure cohesive integration of all subsystems
         </li>
         <li>
-            Holds trainings for new members--EAGLE, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems 
+            Holds trainings for new members--EAGLE, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems
         </li>
   </ul>
 
