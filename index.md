@@ -10,10 +10,8 @@
         <li>
             I designed on the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
         </li>
-        <li>
-            <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>: Contains the KiCAD and gerber files for the Interface PCB
-        </li>
     </ul>
+KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>)
 <img src="images/PezGloboConnections.png?raw=true" style="width:240px;">
 
 <img src="images/PezGloboAlarmsLeds.png?raw=true" style="width:240px;">
@@ -27,7 +25,7 @@
 <a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergraduates building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
     <ul>
         <li>
-            I am the Avionics Hardware leader of Brown Space Engineering. I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control.
+            I am the Avionics Hardware leader of Brown Space Engineering. I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control. I also work the other leads to ensure cohesive integration of all subsystems.
         </li>
         <li>
             As we begin the process of making a new satellite, my team and I are working on a launch application to NASA that describes its mission and technical specifications and requirements.
@@ -37,6 +35,7 @@
         </li>
   </ul>
 
+I created this systems block diagram for our new satellite, PVDX
 <img src="images/FutureSatBlockDiagram.jpg?raw=true" style="width:480;">
 
 </p>
