@@ -28,20 +28,26 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 
 <p>
 <img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
-<a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergrads building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
+<a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergrads who design open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
+</p>
+<p>
+Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
+</p>
+<p>
+I'm the Avionics Hardware leader of Brown Space Engineering. I...
     <ul>
         <li>
-            I am the Avionics Hardware leader of Brown Space Engineering. I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control. I also work the other leads to ensure cohesive integration of all subsystems.
+            Lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control
         </li>
         <li>
-            As we begin the process of making a new satellite, my team and I are working on a launch application to NASA that describes its mission and technical specifications and requirements.
+            Work together with the other leads to ensure cohesive integration of all subsystems
         </li>
         <li>
-            Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
+            Am in charge of creating the preliminary design of systems, power and telemetry budgets, and high-level block diagram for our new satellite
         </li>
   </ul>
 
-An example of the systems design I'm doing--high-level block diagram for our new satellite, PVDX
+Design Samples: <br>
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480;">
 
 <a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
