@@ -40,17 +40,20 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
             Lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control
         </li>
         <li>
-            Work together with the other leads to ensure cohesive integration of all subsystems
+            Am in charge of creating the preliminary design of systems, power and telemetry budgets, and high-level block diagram for our new satellite
         </li>
         <li>
-            Am in charge of creating the preliminary design of systems, power and telemetry budgets, and high-level block diagram for our new satellite
+            Work together with the other leaders to ensure cohesive integration of all subsystems
+        </li>
+        <li>
+            Will lead my team to design schematics and PCB once high-level design is complete
         </li>
   </ul>
 
 Design Samples: <br>
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480;">
-<img src="images/PVDXPowerBudget.jpg?raw=true" style="width:480;">
-<img src="images/PVDXRadioAnalysis.jpg?raw=true" style="width:480;">
+<img src="images/PVDXPowerBudget.png?raw=true" style="width:480;">
+<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:480;">
 
 <a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
