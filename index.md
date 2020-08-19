@@ -48,9 +48,9 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
   </ul>
 
 Design Samples: <br>
-<img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480;">
-<img src="images/PVDXPowerBudget.png?raw=true" style="width:480;">
-<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:480;">
+<img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480px;">
+<img src="images/PVDXPowerBudget.png?raw=true" style="width:240px;">
+<img src="images/PVDXRadioAnalysis.png?raw=true" style="width:240px;">
 
 <a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
