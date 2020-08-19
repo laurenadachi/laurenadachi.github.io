@@ -27,6 +27,7 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 <br>
 
 <p>
+<img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
 <a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergraduates building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
     <ul>
         <li>
@@ -50,6 +51,10 @@ An example of the systems design I'm doing--high-level block diagram for our new
 ---
 
 ## Class Projects
+### Python
+[RISC-V Assembler](/mov/Assembler.mov)
+<img src="images/Assembler.png?raw=true" style="width:240;">
+
 ### Java
 [Pacman](/mov/Pacman.mov)
 <img src="images/Pacman.png" style="width:240px;">
@@ -58,9 +63,6 @@ An example of the systems design I'm doing--high-level block diagram for our new
 [DoodleJump](/mov/DoodleJump.mov)
 <img src="images/DoodleJump.png" style="width:240px;">
 
-### Python
-[RISC-V Assembler](/mov/Assembler.mov)
-<img src="images/Assembler.png?raw=true" style="width:240;">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
