@@ -71,8 +71,8 @@ Click on the project names for videos!
 <b> Breadboarding </b> <br>
 [Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)-- [Oscilloscope reading of conversion](/mov/ApproxA_DConverterOscilloscope.MP4) <br>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4)
-
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
+
 <b> FPGAs </b> <br>
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
 
@@ -90,10 +90,8 @@ Click on the project names for videos!
 [DoodleJump](/mov/DoodleJump.mov) <br>
 <img src="images/DoodleJump.png" style="width:300px;"> <br>
 
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
+[View My Resume](/pdf/Resume.pdf)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
