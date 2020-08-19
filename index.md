@@ -4,12 +4,16 @@
 
 ### Team Projects
 <p>
-<a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts. PezGlobo is an inter-university partnership between Stanford University, Brown University and University of Utah with industrial partners across the globe including Waymo, Blackrock Microsystems and Bharat Forge.
+<a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
     <ul>
         <li>
             I designed on the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
         </li>
+        <li>
+            <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>: Contains the KiCAD and gerber files for the Interface PCB
+        </li>
     </ul>
+<img src="images/PezGloboInterfacePCB.png?raw=true"/>
 </p>
 <p>
 <a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergraduates building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
