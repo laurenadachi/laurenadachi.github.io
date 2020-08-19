@@ -3,7 +3,6 @@
 ---
 
 ### Team Projects
-<p>
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
     <ul>
@@ -20,8 +19,9 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 
 <img src="images/PezGloboInterfacePCB.png?raw=true" style="width:240px;">
 
-</p>
-<p>
+<br></br>
+<br></br>
+
 <a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergraduates building open-source CubeSats, to bring space to the people. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018, with 2 missions--to create a flash that can be seen from Earth and to test novel LiFePO4 batteries in space for the first time.
     <ul>
         <li>
@@ -36,9 +36,8 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
   </ul>
 
 I created this systems block diagram for our new satellite, PVDX
-<img src="images/FutureSatBlockDiagram.jpg?raw=true" style="width:480;">
+<img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480;">
 
-</p>
 
 ---
 
