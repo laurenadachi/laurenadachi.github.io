@@ -40,13 +40,13 @@ I'm the Avionics Hardware leader of Brown Space Engineering. I...
             Lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control
         </li>
         <li>
-            Am in charge of creating the preliminary design of systems, power and telemetry budgets, and high-level block diagram for our new satellite
+            Am in charge of creating the preliminary design of systems, including power and telemetry budgets and high-level block diagram for our new satellite. Once high-level design is complete, I will be responsible for part selection and design of schematics and PCBs.
         </li>
         <li>
             Work together with the other leaders to ensure cohesive integration of all subsystems
         </li>
         <li>
-            Will lead my team to design schematics and PCB once high-level design is complete
+            Holds trainings for new members--EAGLE, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems 
         </li>
   </ul>
 
