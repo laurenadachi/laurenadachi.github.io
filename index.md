@@ -19,6 +19,8 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 <img src="images/PezGloboSwitches.png?raw=true" style="width:240px;">
 
 <img src="images/PezGloboInterfacePCB.png?raw=true" style="width:240px;">
+
+<a href="https://github.com/pez-globo/">GitHub Organization Link</a>
 </p>
 
 <br>
@@ -34,23 +36,29 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
             As we begin the process of making a new satellite, my team and I are working on a launch application to NASA that describes its mission and technical specifications and requirements.
         </li>
         <li>
-            Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test & inspect perovskite solar cells for the first time in space. 
+            Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test & inspect perovskite solar cells for the first time in space.
         </li>
   </ul>
 
 An example of the systems design I'm doing--high-level block diagram for our new satellite, PVDX
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480;">
 
-<a href="https://github.com/BrownSpaceEngineering">GitHub Organization</a>: Our schematics and board designs for our new satellite will soon be posted here. Stay posted for hardware updates!
+<a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
 </p>
 
 ---
 
 ### Class Projects
+## Java
+[Pacman](/mov/Pacman.mov)
+<img src="images/Pacman.png?raw=true"/>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tetris](/mov/Tetris.mov)
+<img src="images/Tetris.png?raw=true"/>
+
+[DoodleJump](/mov/DoodleJump.mov)
+<img src="images/DoodleJump.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
