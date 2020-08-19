@@ -61,11 +61,12 @@ Design Samples: <br>
 ## Class Projects
 Click on the project names for videos!
 
-### Python
+### Software
+<b> Python </b> <br>
 [RISC-V Assembler](/mov/Assembler.mov)
 <img src="images/Assembler.png?raw=true">
 
-### Java
+<b> Java </b> <br>
 [Pacman](/mov/Pacman.mov) <br>
 <img src="images/Pacman.png" style="width:300px;"><br>
 
@@ -74,16 +75,25 @@ Click on the project names for videos!
 [DoodleJump](/mov/DoodleJump.mov) <br>
 <img src="images/DoodleJump.png" style="width:300px;"> <br>
 
+### Hardware
+<b> CPLDs </b> <br>
+[4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
+[Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
+
+<b> Breadboarding </b> <br>
+[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4) <br>
+<ul>
+    <li>
+        [Oscilloscope reading](/mov/ApproxA_DConverterOscilloscope.MP4) <br>
+    </li>
+</ul>
+[Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4) <br>
+
+<b> FPGAs </b> <br>
+[Scrolling message board](/mov/FPGAScroll.mp4)<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
----
-[Project 3 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
