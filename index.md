@@ -62,17 +62,17 @@ Design Samples: <br>
 Click on the project names for videos!
 
 ### Hardware
-<img src="images/CPLD.JPG?raw=true" style="float:right;width:50px;">
+<img src="images/CPLD.JPG?raw=true" style="float:right;width:75px;">
 <b> CPLDs </b> <br>
 [4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
 [Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
 
-<img src="images/Breadboard.JPG?raw=true" style="float:right;width:50px;">
+<img src="images/Breadboard.JPG?raw=true" style="float:right;width:75px;">
 <b> Breadboarding </b> <br>
-[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)-- [Oscilloscope reading of conversion](/mov/ApproxA_DConverterOscilloscope.MP4)
+[Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)-- [Oscilloscope reading of conversion](/mov/ApproxA_DConverterOscilloscope.MP4) <br>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4)
 
-<img src="images/FPGA.png?raw=true" style="float:right;width:50px;">
+<img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
 <b> FPGAs </b> <br>
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
 
