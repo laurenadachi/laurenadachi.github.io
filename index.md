@@ -84,7 +84,7 @@ Click on the project names for videos!
 [Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4) <br>
 <ul>
     <li>
-        [Oscilloscope reading](/mov/ApproxA_DConverterOscilloscope.MP4) <br>
+        [Oscilloscope reading](/mov/ApproxA_DConverterOscilloscope.MP4)
     </li>
 </ul>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4) <br>
