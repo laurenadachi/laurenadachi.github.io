@@ -5,6 +5,7 @@
 ### Team Projects
 <p>
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
+    <img src="images/PezGloboInterfacePCB.png?raw=true" style="float:right;width:100px;">
     <ul>
         <li>
             I designed on the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
