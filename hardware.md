@@ -27,12 +27,12 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 <br>
 
 ## Embedded Systems Electronics
-<p style = "font-size:10">
 <img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
-<a href="https://brownspace.org">Brown Space Engineering</a>: A team of undergrads who design open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018. Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
+<p>
+I'm the Avionics Hardware leader of <a href="https://brownspace.org">Brown Space Engineering</a>. A team of undergrads that designs open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018. Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
 </p>
 <p>
-I'm the Avionics Hardware leader of Brown Space Engineering. I...
+I...
     <ul>
         <li>
             Lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control
@@ -59,15 +59,15 @@ Design Samples: <br>
 
 <img src="images/CPLD.JPG?raw=true" style="float:right;width:75px;">
 
-###CPLDs
+### CPLDs
 [4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
 [Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
 <img src="images/Breadboard.JPG?raw=true" style="float:right;width:75px;">
 
-###Breadboarding
+### Breadboarding
 [Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)<br>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4)
 
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
-###FPGAs
+### FPGAs
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
