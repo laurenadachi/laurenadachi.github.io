@@ -1,6 +1,6 @@
 # Software
-**Click project titles for videos!** 
----
+<i>Click project titles for videos</i>
+<br>
 ## Python
 <p style="text-align:center"> <b>
 <a href="https://laurenadachi.github.io/mov/Assembler.mov">RISC-V Assembler</a>
