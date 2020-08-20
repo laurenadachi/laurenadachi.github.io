@@ -1,5 +1,5 @@
 # Portfolio
 
 ---
-[Hardware](/hardware.md)
+[Hardware](/hardware.md) <br>
 [Software](/software.md)
