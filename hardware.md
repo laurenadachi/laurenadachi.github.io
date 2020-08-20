@@ -1,5 +1,4 @@
 # Hardware
-<br>
 ## PCBs
 <p style = "font-size:10">
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
