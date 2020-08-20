@@ -4,14 +4,9 @@
 <p style = "font-size:10">
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
-    <ul>
-        <li>
-            I designed the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
-        </li>
-        <li>
-            I created the schematic and PCB in KiCad and selected parts with constraints from mechanical, clinical, and UIUX teams. I was in charge of assembling and testing the interface PCBs and Raspberry Pi interface peripherals.
-        </li>
-    </ul>
+<br>
+I designed the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
+<br>
 KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>)
 <img src="images/PezGloboConnections.png?raw=true" style="width:240px;">
 
@@ -35,7 +30,10 @@ I'm the Avionics Hardware leader of <a href="https://brownspace.org">Brown Space
 I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control. My responsibilities include:
     <ul>
         <li>
-            Being in charge of creating the preliminary design of systems, including power and telemetry budgets and high-level block diagram for our new satellite. Once high-level design is complete, I will be responsible for part selection and design of schematics and PCBs.
+            Being in charge of the preliminary systems design, including power and telemetry budgets and high-level block diagram for our new satellite
+        </li>
+        <li>
+            Part selection and design of schematics and PCBs (once high levle design is complete)
         </li>
         <li>
             Working with the other leaders to ensure cohesive integration of all subsystems
