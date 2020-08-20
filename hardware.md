@@ -4,9 +4,11 @@
 <p style = "font-size:10">
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
-<br>
+</p>
+<p>
 I designed the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
-<br>
+</p>
+<p>
 KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>)
 <img src="images/PezGloboConnections.png?raw=true" style="width:240px;">
 

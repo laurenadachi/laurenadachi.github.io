@@ -6,10 +6,11 @@
 
 ### Java
 [Pacman](/mov/Pacman.mov) <br>
-<img src="images/Pacman.png" style="width:340px;" class="center"><br>
+
+<img src="images/Pacman.png" style="width:340px;" ><br>
 
 [Tetris](/mov/Tetris.mov)  <br>
-<img src="images/Tetris.png" style="width:340px;" class="center"> <br>
+<img src="images/Tetris.png" style="width:340px;" > <br>
 
 [DoodleJump](/mov/DoodleJump.mov) <br>
-<img src="images/DoodleJump.png" style="width:340px;" class="center"> <br>
+<img src="images/DoodleJump.png" style="width:340px;" > <br>
