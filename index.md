@@ -8,7 +8,10 @@
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
     <ul>
         <li>
-            I designed on the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
+            I designed the ventilator's interface PCB which serves as the interface between front-end user devices and the control MCU.
+        </li>
+        <li>
+            I created the schematic and PCB in KiCad and selected parts with constraints from mechanical, clinical, and UIUX teams. I was in charge of assembling and testing the interface PCBs and Raspberry Pi interface peripherals.
         </li>
     </ul>
 KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-electronics/tree/interface">GitHub Interface Branch</a>)
@@ -20,7 +23,7 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 
 <img src="images/PezGloboInterfacePCB.png?raw=true" style="width:240px;">
 
-<a href="https://github.com/pez-globo/">GitHub Organization Link</a>
+<br><a href="https://github.com/pez-globo/">GitHub Organization Link</a>
 </p>
 
 <br>
@@ -51,7 +54,7 @@ Design Samples: <br>
 <img src="images/PVDXPowerBudget.png?raw=true" style="width:235px;">
 <img src="images/PVDXRadioAnalysis.png?raw=true" style="width:245px;">
 
-<a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
+<br><a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
 </p>
 
