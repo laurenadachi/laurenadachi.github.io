@@ -53,10 +53,10 @@ Design Samples: <br>
 </p>
 
 <img src="images/CPLD.JPG?raw=true" style="float:right;width:75px;">
-
 ### CPLDs
 [4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
 [Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
+
 <img src="images/Breadboard.JPG?raw=true" style="float:right;width:75px;">
 
 ### Breadboarding
