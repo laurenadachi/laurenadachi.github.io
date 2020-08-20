@@ -26,25 +26,22 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 
 <br>
 
-## Embedded Systems Electronics
+## Avionics Hardware
 <img src="images/PVDX.png?raw=true" style="float:right;width:150px;">
 <p>
-I'm the Avionics Hardware leader of <a href="https://brownspace.org">Brown Space Engineering</a>. A team of undergrads that designs open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018. Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
+I'm the Avionics Hardware leader of <a href="https://brownspace.org">Brown Space Engineering</a>--a team of undergrads that designs open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018. Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
 </p>
 <p>
-I...
+I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control. My responsibilities include:
     <ul>
         <li>
-            Lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control
+            Being in charge of creating the preliminary design of systems, including power and telemetry budgets and high-level block diagram for our new satellite. Once high-level design is complete, I will be responsible for part selection and design of schematics and PCBs.
         </li>
         <li>
-            Am in charge of creating the preliminary design of systems, including power and telemetry budgets and high-level block diagram for our new satellite. Once high-level design is complete, I will be responsible for part selection and design of schematics and PCBs.
+            Working with the other leaders to ensure cohesive integration of all subsystems
         </li>
         <li>
-            Work together with the other leaders to ensure cohesive integration of all subsystems
-        </li>
-        <li>
-            Holds trainings for new members--EAGLE, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems
+            Holding trainings for new members--EAGLE, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems
         </li>
   </ul>
 
