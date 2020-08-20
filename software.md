@@ -1,10 +1,10 @@
-## Software
+# Software
 
-### Python
+## Python
 [RISC-V Assembler](/mov/Assembler.mov)
 <img src="images/Assembler.png?raw=true" class="center">
 
-### Java
+## Java
 [Pacman](/mov/Pacman.mov) <br>
 
 <img src="images/Pacman.png" style="width:340px;" ><br>

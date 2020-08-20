@@ -1,4 +1,4 @@
-## Hardware
+# Hardware
 
 ## PCBs
 <p style = "font-size:10">
@@ -55,16 +55,16 @@ Design Samples: <br>
 </p>
 
 <img src="images/CPLD.JPG?raw=true" style="float:right;width:75px;">
-### CPLDs
+## CPLDs
 [4x4 Multiplier](/mov/CPLDMultiplier.MP4) <br>
 [Keypad encoding](/mov/KeyPadEncoding.mp4) <br>
 
 <img src="images/Breadboard.JPG?raw=true" style="float:right;width:75px;">
 
-### Breadboarding
+## Breadboarding
 [Successive Approximation Analog-to-Digital Converter](/mov/ApproxA_DConverter.MP4)<br>
 [Dual Slope Analog-to-Digital Converter](/mov/A_DDualSlope.MP4)
 
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
-### FPGAs
+## FPGAs
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
