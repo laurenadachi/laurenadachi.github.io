@@ -1,5 +1,5 @@
 # Software
-
+<p style="text-align:center">
 ## Python
 [RISC-V Assembler](/mov/Assembler.mov)
 <img src="images/Assembler.png?raw=true" class="center">
@@ -14,3 +14,5 @@
 
 [DoodleJump](/mov/DoodleJump.mov) <br>
 <img src="images/DoodleJump.png" style="width:340px;" > <br>
+
+</p>
