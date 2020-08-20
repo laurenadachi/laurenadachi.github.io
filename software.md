@@ -1,18 +1,20 @@
 # Software
-<p style="text-align:center">
+
 ## Python
-[RISC-V Assembler](/mov/Assembler.mov)
+<a href="https://laurenadachi.github.io/mov/Assembler.mov">RISC-V Assembler</a>
 <img src="images/Assembler.png?raw=true" class="center">
+<br>
 
 ## Java
-[Pacman](/mov/Pacman.mov) <br>
-
+<p style="text-align:center"> <b>
+<a href="https://laurenadachi.github.io/mov/Pacman.mov">Pacman</a>
 <img src="images/Pacman.png" style="width:340px;" ><br>
 
-[Tetris](/mov/Tetris.mov)  <br>
+<a href="https://laurenadachi.github.io/mov/Tetris.mov">Tetris</a>
 <img src="images/Tetris.png" style="width:340px;" > <br>
 
-[DoodleJump](/mov/DoodleJump.mov) <br>
+<a href="https://laurenadachi.github.io/mov/DoodleJump.mov">DoodleJump</a>
 <img src="images/DoodleJump.png" style="width:340px;" > <br>
 
+</b>
 </p>
