@@ -66,5 +66,5 @@ Design Samples: <br>
 
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
 ## FPGAs
-<a href="https://laurenadachi.github.io/processor.html">Single Cycle Processor</a> <br>
+<a href="https://laurenadachi.github.io/processor">Single Cycle Processor</a> <br>
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>

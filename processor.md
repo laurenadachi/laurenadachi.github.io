@@ -1,4 +1,4 @@
-##Single-Cycle Processor
+## Single-Cycle Processor
 <p style="text-align:center">
 <br>Instructions for Processor: Factorial<br>
 <img src="images/CPUInstructions.png" style="width:480px;" ><br>
