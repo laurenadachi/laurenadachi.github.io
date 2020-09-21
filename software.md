@@ -4,13 +4,11 @@
 ## Python
 <p style="text-align:center"> <b>
 <a href="https://laurenadachi.github.io/mov/Assembler.mov">RISC-V Assembler</a> <br> </b>
-Wrote assembler that translates RISC-V assembly instructions to binary.
 <img src="images/Assembler.png?raw=true" class="center">
 <br></p>
 
 ## Java
 <p style="text-align:center">
-Created Pacman, Tetris, and DoodleJump using JavaFX.  
 <b>
 <br>
 <a href="https://laurenadachi.github.io/mov/Pacman.mov">Pacman</a> <br>

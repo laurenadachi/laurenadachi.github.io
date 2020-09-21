@@ -67,3 +67,11 @@ Design Samples: <br>
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
 ## FPGAs
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
+<b>Single-Cycle Processor</b>
+<br>Instructions for Processor: Factorial<br>
+<img src="images/CPUInstructions.png" style="width:340px;" ><br><br>
+<br>Simulation testbench of processor calculating 6! = 720<br>
+<img src="images/CPUSimulation.png" style="width:340px;" ><br><br>
+<br>Processor critical delay and critical path<br>
+<img src="images/CPUCriticalDelaySheet.png" style="width:340px;" >
+<img src="images/CPUCriticalPath.png" style="width:340px;" ><br><br>
