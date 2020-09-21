@@ -24,10 +24,9 @@ Created Pacman, Tetris, and DoodleJump using JavaFX.
 ## C
 <p style="text-align:center"> <b>
 Theseus <br>
-Wrote embedded firmware in C for PerkinElmer's Theseus: a biomedical device that automates
-tedious cellular biology experiments, such as polymerase chain reaction (PCR). <br>
-<img src="images/Theseus1.jpg" style="width:150;" >
-<img src="images/Theseus2.jpg" style="width:150;" > <br><br>
+Wrote embedded firmware in C for PerkinElmer's Theseus: a biomedical device that automates cellular biology experiments, such as polymerase chain reaction (PCR). <br>
+<img src="images/Theseus1.jpg" style="width:150px;" >
+<img src="images/Theseus2.jpg" style="width:150px;" > <br><br>
 
 </b>
 </p>
