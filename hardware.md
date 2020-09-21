@@ -67,7 +67,7 @@ Design Samples: <br>
 <img src="images/FPGA.png?raw=true" style="float:right;width:75px;">
 ## FPGAs
 [Scrolling message board](/mov/FPGAScroll.mp4)<br>
-<b>Single-Cycle Processor</b>
+[Single-Cycle Processor](/images/CPUSimulation.png)<br>
 <p style="text-align:center">
 <br>Instructions for Processor: Factorial<br>
 <img src="images/CPUInstructions.png" style="width:480px;" ><br>
