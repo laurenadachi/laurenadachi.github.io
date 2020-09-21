@@ -4,7 +4,7 @@
 ## Python
 <p style="text-align:center"> <b>
 <a href="https://laurenadachi.github.io/mov/Assembler.mov">RISC-V Assembler</a> <br>
-Wrote an assembler that translated RISC-V assembly instructions in to binary.
+Wrote assembler that translates RISC-V assembly instructions in to binary.
 <img src="images/Assembler.png?raw=true" class="center">
 </b>
 <br></p>
