@@ -20,6 +20,7 @@ Created Pacman, Tetris, and DoodleJump using JavaFX.
 
 <a href="https://laurenadachi.github.io/mov/DoodleJump.mov">DoodleJump</a> <br>
 <img src="images/DoodleJump.png" style="width:340px;" > <br>
+</p>
 
 ## C
 <p style="text-align:center"> <b>
