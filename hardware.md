@@ -18,7 +18,7 @@ I lead and manage a team of 10 undergrads to create the electronics systems of o
             Working with the other leaders to ensure cohesive integration of all subsystems
         </li>
         <li>
-            Holding trainings for new members--KiCAD, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems
+            Holding <a href="https://brownspace.org/training-resources/">trainings</a> for new members--KiCAD, digital and analog circuits, radio modulation and demodulation, and creating hardware for embedded systems
         </li>
   </ul>
 
@@ -28,7 +28,7 @@ Design Samples: <br>
 <img src="images/PVDXPowerBudget.png?raw=true" style="width:235px;">
 <img src="images/PVDXRadioAnalysis.png?raw=true" style="width:245px;">
 
-<a href="https://laurenadachi.github.io/pdf/LaunchAppIntro.pptx">Excerpt from Launch Application to NASA's CubeSat Launch Initiative program</a><br>
+<a href="https://laurenadachi.github.io/pdf/LaunchAppIntro.pdf">Excerpt from Launch Application to NASA's CubeSat Launch Initiative program</a><br>
 <img src="images/LaunchApp1.png?raw=true" style="width:240px;">
 <img src="images/LaunchApp2.png?raw=true" style="width:240px;">
 
