@@ -65,11 +65,15 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 ## Inductive Link Design
 I designed a wireless power transfer link (inductive) for a pacemaker system and wrote a python script for calculating dimensions for appropriate PCB spirals for link.
 <br>
+<img src="images/IPT.png?raw=true" style="width:480px;">
+<br>
 <a href="https://laurenadachi.github.io/pdf/IPT_Design.pdf">Design Summary</a><br>
 <a href="https://laurenadachi.github.io/pdf/CoilCalculator_v4.py">Script</a><br>
 
 ## Cadence Virtuoso
 I designed and simulated a delta-sigma ADC for robotic control systems applications.
+<br>
+<img src="images/ADC.png?raw=true" style="width:480px;">
 <br>
 <a href="https://laurenadachi.github.io/pdf/Delta_Sigma_ADC.pdf">Design Summary</a><br>
 
