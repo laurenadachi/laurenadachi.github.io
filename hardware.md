@@ -24,7 +24,6 @@ I lead and manage a team of 15 undergrads to create the electronics systems of o
 
 Design Samples: <br>
 <img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480px;">
-<img src="images/BSEBlockDiagram.jpg?raw=true" style="width:480px;">
 <img src="images/PVDXPowerBudget.png?raw=true" style="width:235px;">
 <img src="images/PVDXRadioAnalysis.png?raw=true" style="width:245px;">
 
@@ -76,9 +75,6 @@ I designed and simulated a delta-sigma ADC for robotic control systems applicati
 <img src="images/ADC.png?raw=true" style="width:480px;">
 <br>
 <a href="https://laurenadachi.github.io/pdf/Delta_Sigma_ADC.pdf">Design Summary</a><br>
-
-
-<br>
 
 <br>
 
