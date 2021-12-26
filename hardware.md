@@ -6,7 +6,7 @@
 I'm the Co-president and Avionics Hardware leader of <a href="https://brownspace.org">Brown Space Engineering</a>--a team of undergrads that designs open-source CubeSats. Our first satellite, <a href="https://brownspace.org">EQUISat</a>, launched in 2018. Our next satellite's mission is to be 1) an interactive satellite that can display anyone's message in space and 2) test perovskite solar cells for the first time in space.
 </p>
 <p>
-I lead and manage a team of 10 undergrads to create the electronics systems of our satellites--radio, power, and control. My responsibilities include:
+I lead and manage a team of 15 undergrads to create the electronics systems of our satellites--radio, power, and control. My responsibilities include:
     <ul>
         <li>
             Being in charge of the preliminary systems design, including power and telemetry budgets and high-level block diagram for our new satellite
@@ -31,6 +31,8 @@ Design Samples: <br>
 <a href="https://laurenadachi.github.io/pdf/LaunchAppIntro.pdf">Excerpt from Launch Application to NASA's CubeSat Launch Initiative program</a><br>
 <img src="images/LaunchApp1.png?raw=true" style="width:240px;">
 <img src="images/LaunchApp2.png?raw=true" style="width:240px;">
+<br>
+<a href="https://laurenadachi.github.io/pdf/SRR.pdf">System Requirements Review Slides</a><br>
 
 <br><a href="https://github.com/BrownSpaceEngineering">GitHub Organization Link</a>
 
@@ -38,7 +40,7 @@ Design Samples: <br>
 
 <br>
 
-## PCBs
+## Printed Circuit Boards
 <p style = "font-size:10">
 <img src="images/PezGlobo.png?raw=true" style="float:right;width:150px;">
 <a href="https://pez-globo.org">Pufferfish Ventilation (Pez Globo)</a>: An Open-source ventilator project. Pufferfish aims to fight the COVID-19 health crisis by creating a fully open source, FDA-approved ventilator with easily sourced parts.
@@ -60,9 +62,21 @@ KiCAD Samples (for more, see <a href="https://github.com/pez-globo/pufferfish-el
 </p>
 
 <br>
+## Inductive Link Design
+I designed a wireless power transfer link (inductive) for a pacemaker system and wrote a python script for calculating dimensions for appropriate PCB spirals for link.
+<br>
+<a href="https://laurenadachi.github.io/pdf/IPT_Design.pdf">Design Summary</a><br>
+<a href="https://laurenadachi.github.io/pdf/CoilCalculator_v4.py">Script</a><br>
+
+## Cadence Virtuoso
+I designed and simulated a delta-sigma ADC for robotic control systems applications.
+<br>
+<a href="https://laurenadachi.github.io/pdf/Delta_Sigma_ADC.pdf">Design Summary</a><br>
+
 
 <br>
 
+<br>
 
 <img src="images/CPLD.JPG?raw=true" style="float:right;width:75px;">
 ## CPLDs
